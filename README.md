@@ -3,7 +3,7 @@ CheckNetConnectionHUD
 
 The background automatically detect the network connection , When the network status have changed show HUD.
 
-[![](https://github.com/Coneboy-k/KKNavigationController/blob/master/SHOW_GIF/18.gif?raw=true)]
+[![](https://raw.github.com/Coneboy-k/CheckNetConnectionHUD/master/image/19.gif)]
 
 ## Requirements
 CheckNetConnectionHUD works on any iOS version. Only ARC.
